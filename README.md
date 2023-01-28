@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='/Users/yuwatinyi/Downloads/Screen Recording 2023-01-27 at 9.36.25 PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/yuwatinyi/Downloads/Screen%20Recording%202023-01-27%20at%209.36.25%20PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  QuickTime Player and cloudconvert
