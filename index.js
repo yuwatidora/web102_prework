@@ -179,8 +179,8 @@ const numFunded = listOfFunded.reduce((acc)=>{
 },0)
 
 // create a string that explains the number of unfunded games using the ternary operator
-let unfundedStr = `A total of $${totalRaised.toLocaleString('en-US')} has been raised for ${totalGames} games. Currently, ${unFunded} game 
-remains unfunded. We need your help to fund these amazing games!`;
+let unfundedStr = `A total of $${totalRaised.toLocaleString('en-US')} has been raised for ${totalGames} games. ${numFunded != totalGames ? `Currently, ${unFunded} game 
+remains unfunded. We need your help to fund these amazing games!`:""}`;
 
 // create a new DOM element containing the template string and append it to the description container
 const description = document.createElement("div");
